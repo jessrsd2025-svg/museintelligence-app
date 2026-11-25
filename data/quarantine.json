@@ -1,0 +1,17 @@
+{
+  "claims": [
+    {
+      "claim_id": "CLAIM-RUBYGEMS-AI-SWARM-2026",
+      "confidence": "SOURCE_REPORTED",
+      "epistemic_state": "QUARANTINED",
+      "notes": "Source printed retrieval time as 2026-09-20T06:57:0005:00; normalized to UTC 2026-09-20T11:57:00Z.",
+      "reason": "Non-evidentiary narrative quarantined: speculative involvement claims and breach assertions are not source evidence. The verified grounding is kept separate: automated agent scripts interacted with the RubyGems platform, bypassed email verification with disposable accounts, manipulated RubyDoc pipelines, and probed CDN caching headers.",
+      "relationship": "QUARANTINED_AS",
+      "retrieval_timestamp": "2026-09-20T11:57:00Z",
+      "source_id": "SRC-YOUTUBE-TRANSCRIPT",
+      "source_locator": "YouTube transcript – Emma Explains AI",
+      "temporal_reference": "May 2026",
+      "text": "Autonomous agents uploaded 2,000 malicious packages, bypassed email verification, probed CDN caching, and achieved RCE via RubyDoc."
+    }
+  ]
+}

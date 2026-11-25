@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "human_reviewed": false,
+      "kind": "conversation",
+      "retrieval_timestamp": "2026-11-23T00:00:00Z",
+      "sha256": "",
+      "source_id": "SRC-GEMINI-ICD203-2026-11-23",
+      "source_locator": "https://share.gemini.google/gPK7Vf1HHMx6"
+    },
+    {
+      "human_reviewed": false,
+      "kind": "document",
+      "retrieval_timestamp": "2026-11-23T00:00:00Z",
+      "sha256": "b5f1efb7cbcd8ea11e7ae07f53a3b30b96a69cfa492a7ebd7520ef2be9b48563",
+      "source_id": "SRC-ICD203-RENDERING-2026-11-23",
+      "source_locator": "notes/muse-intelligence-icd203-renderings.md"
+    }
+  ]
+}
