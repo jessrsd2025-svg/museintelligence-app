@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# App runtime state (the real config, ingested documents, caches)
+config.yaml
+data/documents/*
+!data/documents/.gitkeep
+data/envelopes/*
+!data/envelopes/.gitkeep
+
+# OS / editors
+.DS_Store
+*.swp

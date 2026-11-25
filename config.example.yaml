@@ -1,0 +1,24 @@
+# MuseIntelligence ICD203 — example configuration.
+# Copy to config.yaml and pin the model SHA at build time.
+# No commit SHA is stated here; none is invented.
+
+model:
+  # Default open-source runtime model (Apache 2.0, Hugging Face).
+  repo: Qwen/Qwen2.5-7B-Instruct
+  # Pin at build time via the TOOL-GH-01 flow: pin_commit_sha to
+  # resolve the ref, verify_ref to check it. Never a branch name.
+  sha: "to be pinned at build time"
+  license: Apache-2.0
+
+github:
+  # Repositories the app may read via TOOL-GH-01. Each ref is
+  # resolved to a commit SHA at build time — never a branch name.
+  repos:
+    - repo: psf/requests
+      ref: v2.32.3
+
+server:
+  host: 127.0.0.1
+  port: 8000
+
+data_dir: data
