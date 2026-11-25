@@ -1,0 +1,15 @@
+{
+  "confidence_weight": 0.0,
+  "epistemic_tag": "SENTIMENT_ONLY",
+  "graph_mutation_authorized": false,
+  "human_review_required": true,
+  "implied_probability_float": 0.62,
+  "liquidity_depth_usd": 125000.0,
+  "market_id": "EXAMPLE-MARKET-002",
+  "provider_locator": "https://example.invalid/markets/EXAMPLE-MARKET-002",
+  "retrieval_timestamp": "2026-11-25T12:00:00Z",
+  "snapshot_timestamp_utc": "2026-11-25T12:00:00Z",
+  "source_id": "SRC-EXAMPLE-MKT-002",
+  "source_locator": "https://example.invalid/markets/EXAMPLE-MARKET-002",
+  "tool_id": "TOOL-MKT-01"
+}
