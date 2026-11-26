@@ -1,0 +1,169 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1900' height='844' viewBox='0 0 1900 844' role='img'>
+<title>MuseIntelligence — Repository MCP Map</title>
+<desc>Model Context Protocol access map for the museintelligence-app repository: the agent reaches the repository through MCP, the repository contains ten modules and 33 files, and AEQUITAS gates, TOOL-GH-01, TOOL-MKT-01, interdiction triggers, and the provenance registry govern it.</desc>
+<defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' fill='#334155'/></marker></defs>
+<rect x='0' y='0' width='1900' height='844' fill='#ffffff'/>
+<text x='950' y='34' font-size='26' fill='#0f172a' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>MuseIntelligence — Repository MCP Map</text>
+<text x='950' y='60' font-size='14' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>museintelligence-app  ·  Model Context Protocol access map  ·  Neo4j graph context (SVG)</text>
+<rect x='110' y='92' width='380' height='62' rx='8' fill='#1f2937' stroke='#0f172a' stroke-width='1.5'/>
+<text x='300' y='118' font-size='16' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Agent — Muse</text>
+<text x='300' y='140' font-size='12' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>the model / human supervisor</text>
+<rect x='580' y='92' width='560' height='62' rx='8' fill='#4f46e5' stroke='#0f172a' stroke-width='1.5'/>
+<text x='860' y='118' font-size='16' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>MCP — Model Context Protocol</text>
+<text x='860' y='140' font-size='12' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>local filesystem backend · pinned SHA reads · provenance on every item</text>
+<rect x='1230' y='92' width='560' height='62' rx='8' fill='#0f766e' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1510' y='118' font-size='16' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Repository — museintelligence-app</text>
+<text x='1510' y='140' font-size='12' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>main · 33 files · commit 9a70e91</text>
+<line x1='496' y1='123' x2='572' y2='123' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<text x='535' y='115' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>ACCESS</text>
+<line x1='1146' y1='123' x2='1222' y2='123' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<text x='1185' y='115' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>READ</text>
+<line x1='1510' y1='154' x2='1510' y2='188' stroke='#334155' stroke-width='1.5'/>
+<line x1='125' y1='188' x2='1763' y2='188' stroke='#334155' stroke-width='1.5'/>
+<text x='1602' y='180' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>CONTAINS</text>
+<line x1='125' y1='188' x2='125' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='307' y1='188' x2='307' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='489' y1='188' x2='489' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='671' y1='188' x2='671' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='853' y1='188' x2='853' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='1035' y1='188' x2='1035' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='1217' y1='188' x2='1217' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='1399' y1='188' x2='1399' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='1581' y1='188' x2='1581' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<line x1='1763' y1='188' x2='1763' y2='214' stroke='#334155' stroke-width='1.5' marker-end='url(#arrow)'/>
+<rect x='40' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='125' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>root</text>
+<rect x='40' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>AGENTS.md</text>
+<rect x='40' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>LICENSE</text>
+<rect x='40' y='336' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='355' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>README.md</text>
+<rect x='40' y='370' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='389' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>ROADMAP.md</text>
+<rect x='40' y='404' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='423' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>config.example.yaml</text>
+<rect x='40' y='438' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='457' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>.gitignore</text>
+<rect x='40' y='472' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='125' y='491' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>quarantine.md</text>
+<rect x='222' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='307' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>.github/workflows</text>
+<rect x='222' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='307' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>gates.yml</text>
+<rect x='404' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='489' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>data</text>
+<rect x='404' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='489' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>documents/.gitkeep</text>
+<rect x='404' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='489' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>envelopes/.gitkeep</text>
+<rect x='404' y='336' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='489' y='355' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>quarantine.json</text>
+<rect x='404' y='370' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='489' y='389' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>registry.json</text>
+<rect x='404' y='404' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='489' y='423' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>renderings/museintelligence-icd203-gemini.md</text>
+<rect x='586' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='671' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>docs</text>
+<rect x='586' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='671' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>langchain_deep_agents_subagents.md</text>
+<rect x='586' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='671' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>wordpress-posts.md</text>
+<rect x='768' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='853' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>examples</text>
+<rect x='768' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='853' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>market_envelope_example.json</text>
+<rect x='950' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1035' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>museintelligence</text>
+<rect x='950' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>__init__.py</text>
+<rect x='950' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>__main__.py</text>
+<rect x='950' y='336' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='355' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>gates.py</text>
+<rect x='950' y='370' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='389' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>github.py</text>
+<rect x='950' y='404' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='423' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>ingest.py</text>
+<rect x='950' y='438' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='457' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>market.py</text>
+<rect x='950' y='472' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='491' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>model.py</text>
+<rect x='950' y='506' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='525' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>provenance.py</text>
+<rect x='950' y='540' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='559' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>quarantine.py</text>
+<rect x='950' y='574' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='593' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>render.py</text>
+<rect x='950' y='608' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1035' y='627' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>server.py</text>
+<rect x='1132' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1217' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>templates</text>
+<rect x='1132' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1217' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>06_market_sentiment_envelope.json</text>
+<rect x='1314' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1399' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>tests</text>
+<rect x='1314' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1399' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>__init__.py</text>
+<rect x='1314' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1399' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>test_museintelligence.py</text>
+<rect x='1496' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1581' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>tools</text>
+<rect x='1496' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1581' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>aequitas_gate_linter.py</text>
+<rect x='1496' y='302' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1581' y='321' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>github_call.py</text>
+<rect x='1678' y='214' width='170' height='42' rx='8' fill='#2563eb' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1763' y='241' font-size='13.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>wiki</text>
+<rect x='1678' y='268' width='170' height='28' rx='8' fill='#f1f5f9' stroke='#94a3b8' stroke-width='1'/>
+<text x='1763' y='287' font-size='11.5' fill='#1e293b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>index.md</text>
+<rect x='85' y='682' width='330' height='64' rx='8' fill='#b45309' stroke='#0f172a' stroke-width='1.5'/>
+<text x='250' y='708' font-size='14.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>AEQUITAS Gates</text>
+<text x='250' y='730' font-size='11.5' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>18-gate checklist</text>
+<path d='M 250 682 L 250 664 L 1672 664 L 1672 282 L 1668 282' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='961' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>GATED_BY</text>
+<path d='M 250 682 L 250 664 L 1126 664 L 1126 350 L 1122 350' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='688' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>GATED_BY</text>
+<rect x='435' y='682' width='330' height='64' rx='8' fill='#15803d' stroke='#0f172a' stroke-width='1.5'/>
+<text x='600' y='708' font-size='14.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>TOOL-GH-01</text>
+<text x='600' y='730' font-size='11.5' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>commit-anchor verifier</text>
+<path d='M 600 682 L 600 664 L 1672 664 L 1672 316 L 1668 316' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1136' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>USES</text>
+<path d='M 600 682 L 600 664 L 1126 664 L 1126 384 L 1122 384' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='863' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>USES</text>
+<rect x='785' y='682' width='330' height='64' rx='8' fill='#15803d' stroke='#0f172a' stroke-width='1.5'/>
+<text x='950' y='708' font-size='14.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>TOOL-MKT-01</text>
+<text x='950' y='730' font-size='11.5' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>market signal · SENTIMENT_ONLY</text>
+<path d='M 950 682 L 950 664 L 1126 664 L 1126 452 L 1122 452' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1038' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>USES</text>
+<path d='M 950 682 L 950 664 L 1308 664 L 1308 282 L 1304 282' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1129' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>USES</text>
+<rect x='1135' y='682' width='330' height='64' rx='8' fill='#b45309' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1300' y='708' font-size='14.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Interdiction triggers</text>
+<text x='1300' y='730' font-size='11.5' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>6 triggers · quarantine</text>
+<path d='M 1300 682 L 1300 664 L 1126 664 L 1126 554 L 1122 554' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1213' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>GATED_BY</text>
+<path d='M 1300 682 L 1300 664 L 216 664 L 216 486 L 212 486' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='758' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>GATED_BY</text>
+<rect x='1485' y='682' width='330' height='64' rx='8' fill='#7c3aed' stroke='#0f172a' stroke-width='1.5'/>
+<text x='1650' y='708' font-size='14.5' fill='#ffffff' text-anchor='middle' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Provenance registry</text>
+<text x='1650' y='730' font-size='11.5' fill='#ffffff' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>source_id · locator · timestamp</text>
+<path d='M 1650 682 L 1650 664 L 580 664 L 580 384 L 576 384' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1115' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>PROVENANCE</text>
+<path d='M 1650 682 L 1650 664 L 580 664 L 580 418 L 576 418' fill='none' stroke='#b45309' stroke-width='1.4' stroke-dasharray='6 4' marker-end='url(#arrow)'/>
+<text x='1115' y='658' font-size='10.5' fill='#475569' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>PROVENANCE</text>
+<text x='40' y='780' font-size='12.5' fill='#0f172a' text-anchor='start' font-weight='700' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Legend:</text>
+<rect x='102' y='769' width='14' height='14' rx='3' fill='#0f766e' stroke='#0f172a' stroke-width='1'/>
+<text x='122' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Repository / module</text>
+<rect x='277.2' y='769' width='14' height='14' rx='3' fill='#f1f5f9' stroke='#0f172a' stroke-width='1'/>
+<text x='297.2' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>File</text>
+<rect x='350.4' y='769' width='14' height='14' rx='3' fill='#15803d' stroke='#0f172a' stroke-width='1'/>
+<text x='370.4' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Tool</text>
+<rect x='423.59999999999997' y='769' width='14' height='14' rx='3' fill='#b45309' stroke='#0f172a' stroke-width='1'/>
+<text x='443.59999999999997' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Gate</text>
+<rect x='496.79999999999995' y='769' width='14' height='14' rx='3' fill='#7c3aed' stroke='#0f172a' stroke-width='1'/>
+<text x='516.8' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Data / provenance</text>
+<text x='658.4' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>— solid: CONTAINS / ACCESS / READ</text>
+<text x='908.8' y='780' font-size='12' fill='#334155' text-anchor='start' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>- - dashed: GATED_BY / USES / PROVENANCE</text>
+<text x='950' y='814' font-size='12' fill='#64748b' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif'>Generated 2026-11-26  ·  Source: github.com/jessrsd2025-svg/museintelligence-app @ 9a70e91  ·  33 files  ·  ICD203 / LIBERTAS  ·  AEQUITAS governed — no claim is VERIFIED_FACT without human review</text>
+</svg>
